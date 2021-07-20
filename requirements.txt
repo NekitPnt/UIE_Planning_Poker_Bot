@@ -1,2 +1,2 @@
 peewee==3.14.4
-aiogram==2.13
+aiogram==2.14.3
